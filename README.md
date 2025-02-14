@@ -1,6 +1,6 @@
 # Feedback App Using React JS
 
-[!Live Demo](https://feedback-app-using-react-three.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue)](https://feedback-app-using-react-three.vercel.app/)
 
 ## Overview
 
