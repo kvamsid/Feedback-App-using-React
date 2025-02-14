@@ -1,6 +1,6 @@
 # Feedback App Using React JS
 
-![](./feedback-app.png)
+![](./Feedback-app.png)
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-blue)](https://feedback-app-using-react-three.vercel.app/)
 
